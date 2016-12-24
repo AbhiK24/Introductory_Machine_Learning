@@ -3,7 +3,8 @@ Simple ML code and visualisations
 
 Resources for self teaching Machine Learning and other related fields (Just to get you started)
 
-**1. Regression - https://www.coursera.org/learn/machine-learning/home/week/2**
+**1. Regression - https://www.kaggle.com/wiki/LinearRegression | 
+   https://www.coursera.org/learn/machine-learning/home/week/2**
 In machine learning and statistical modeling, regression analysis is a statistical process for estimating the relationships among variables. 
 It includes many techniques for modeling and analyzing several variables, when the focus is on the relationship between a
 dependent variable and one or more independent variables (or 'predictors').
